@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Daan05)](https://github.com/Daan05/github-readme-stats)
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Daan05)](https://github.com/Daan05/github-readme-stats)
 <!--
 **Daan05/Daan05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
